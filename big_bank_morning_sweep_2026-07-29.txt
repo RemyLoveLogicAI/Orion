@@ -1,0 +1,13 @@
+Big Bank Morning Sweep - Thursday, July 29, 2026 08:01 AM PDT (America/Los_Angeles)
+
+Research Summary:
+- The term "Big Bank" appears to refer to the Roundhill Big Bank ETF (ticker BIGB). It trades on NASDAQ under the symbol BIGB.
+- Current price (as of latest available data) approximately $28.87 (source: Yahoo Finance)
+- ETF focuses on large U.S. banks.
+- No detailed company financials found for ticker BIGB in the finance database.
+- No specific news items retrieved via finance APIs.
+
+Data sources:
+- Web search results for "BIGB ticker" showing ETF details.
+
+End of sweep.
